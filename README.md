@@ -61,8 +61,7 @@ The purpose of this repository is to build a strong Machine Learning portfolio a
 
 ## 📬 Connect With Me
 
-- LinkedIn: https://linkedin.com/  
-- GitHub: https://github.com/  
+- GitHub: https://github.com/Kashif-work  
 
 ---
 
