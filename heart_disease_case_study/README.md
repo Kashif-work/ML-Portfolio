@@ -1,68 +1,67 @@
-# 👋 Hi, I'm [Muhammad Kashif]
+# ❤️ Heart Disease Prediction (Machine Learning Project)
+
+## 📌 Project Overview
+This project focuses on predicting the presence of heart disease using machine learning algorithms. The main goal is to analyze patient medical data and build a model that can assist in early detection of heart disease.
 
 ---
 
-## 🧠 About Me
-
-🎯 Aspiring Data Scientist & Machine Learning Engineer  
-📊 Passionate about data analysis and machine learning  
-🤖 Focused on building real-world AI/ML projects  
-📚 Continuously learning and improving my skills in Data Science  
+## 📊 Problem Statement
+Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely treatment and reduce risk. This project aims to classify whether a patient is likely to have heart disease based on health attributes.
 
 ---
 
-## ⚙️ Skills
-
-- Python 🐍  
-- Data Analysis 📊  
-- Machine Learning 🤖  
-- Data Visualization 📈  
-- Feature Engineering 🧠  
-- Model Evaluation ⚙️  
+## 📁 Dataset Information
+- Dataset contains medical attributes such as age, blood pressure, cholesterol, heart rate, etc.
+- Each row represents a patient record
+- Target variable: Presence of heart disease (Yes / No)
 
 ---
 
-## 🤖 Machine Learning Projects
-
-### ❤️ Heart Disease Prediction
-- End-to-end Machine Learning pipeline  
-- Exploratory Data Analysis (EDA) performed  
-- Data preprocessing and outlier handling applied  
-- Multiple ML models used (Logistic Regression, Random Forest, XGBoost, etc.)  
-- Stacking Classifier implemented for better performance  
-- Achieved accuracy: ~68%  
+## ⚙️ Methodology
+- Data Cleaning & Preprocessing  
+- Handling missing values & outliers  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Train-Test Split  
+- Model Training  
+- Model Evaluation  
 
 ---
 
-## 📊 Tools & Libraries
+## 🤖 Models Applied
+- Logistic Regression  
+- Random Forest  
+- XGBoost  
+- Stacking Classifier  
 
+---
+
+## 📈 Performance
+- Best Accuracy Achieved: ~68%  
+- Stacking Classifier performed better than individual models  
+- Evaluation metrics used: Accuracy, Precision, Recall
+
+---
+
+## 🛠️ Tools & Libraries
+- Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - Matplotlib  
 - Seaborn  
+- XGBoost  
 
 ---
 
-## 🚀 Goals
-
-- Improve Machine Learning model performance  
-- Learn Deep Learning and Neural Networks  
-- Build real-world deployed ML applications  
-- Become industry-ready Data Scientist  
+## 📊 Results & Insights
+- Data preprocessing significantly improved model performance  
+- Feature selection helped reduce noise  
+- Ensemble methods performed better than single models  
 
 ---
 
-## 📬 Connect With Me
-
-- GitHub: https://github.com/Kashif-work 
-
----
-
-## ⭐ Quote
-
-> “Data is the new oil, but insight is the new power.”
-
----
-
-🔥 Made with passion for Data Science & Machine Learning
+## 🚀 How to Run This Project
+```bash
+pip install -r requirements.txt
+jupyter notebook
